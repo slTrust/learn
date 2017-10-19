@@ -1,0 +1,12 @@
+http://rscardwp.px-lab.com/   简历模板
+https://www.w3.org/QA/2002/04/valid-dtd-list.html   doctype
+https://developer.mozilla.org/zh-CN/docs/Glossary/%E7%A9%BA%E5%85%83%E7%B4%A0 空元素
+https://github.com/joshbuchea/HEAD#elements head能放啥
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/Replaced_element 可替换空元素
+https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML     w3c测试
+blog内容如下
+W3C 简介（查维基百科）
+MDN 简介（查维基百科）
+HTML 所有标签列表（查 MDN）
+什么是空标签（查 MDN、博客）
+什么是可替换标签（查 MDN、博客）
