@@ -1,0 +1,289 @@
+
+
+
+
+
+
+
+
+
+
+
+{	
+   	"total"  : 10,
+	"pageNo":0,
+	"rows":
+		[
+			
+				{
+				    "index":"1",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='1e9b3dc3342f4619be6e898875ad315a' style='color:#666;'>0002</a>",
+		    			
+					    
+				    "diseaseType":"乳房疾病",
+				    "diseaseName":"乳房水肿",
+				    "diseaseDate":
+				    	
+						   "2017/09/22"
+						
+						,
+				    "diseaseDays":"4",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"2",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='6c880022fe064a19bd7f0184191af041' style='color:#666;'>1111</a>",
+		    			
+					    
+				    "diseaseType":"乳房疾病",
+				    "diseaseName":"乳房炎",
+				    "diseaseDate":
+				    	
+						   "2017/04/20"
+						
+						,
+				    "diseaseDays":"159",
+				    "lastCuerDate":
+				    	
+						   "2017/05/23"
+						
+						,
+				    "curerRecord":
+				    	
+						   "药品名称:测试 | 用药方式:输液 | 治疗者:徐小丹1"
+						
+						
+				 },
+			
+				{
+				    "index":"3",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='a4e2bf0d6e6e4459bea15fec0b8237bc' style='color:#666;'>160034</a>",
+		    			
+					    
+				    "diseaseType":"乳房疾病",
+				    "diseaseName":"乳房炎",
+				    "diseaseDate":
+				    	
+						   "2017/04/19"
+						
+						,
+				    "diseaseDays":"160",
+				    "lastCuerDate":
+				    	
+						   "2017/05/23"
+						
+						,
+				    "curerRecord":
+				    	
+						   "药品名称:测试 | 用药方式:输液 | 治疗者:徐小丹1"
+						
+						
+				 },
+			
+				{
+				    "index":"4",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='a4e2bf0d6e6e4459bea15fec0b8237bc' style='color:#666;'>160034</a>",
+		    			
+					    
+				    "diseaseType":"消化系统疾病",
+				    "diseaseName":"真胃炎",
+				    "diseaseDate":
+				    	
+						   "2017/02/20"
+						
+						,
+				    "diseaseDays":"218",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"5",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='e3e2050909f64b2da1ef6cb46febad64' style='color:#666;'>08-01</a>",
+		    			
+					    
+				    "diseaseType":"乳房疾病",
+				    "diseaseName":"乳房水肿",
+				    "diseaseDate":
+				    	
+						   "2016/11/30"
+						
+						,
+				    "diseaseDays":"300",
+				    "lastCuerDate":
+				    	
+						   "2016/11/30"
+						
+						,
+				    "curerRecord":
+				    	
+						   "治疗者:徐小丹"
+						
+						
+				 },
+			
+				{
+				    "index":"6",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='01dba5c0772e4bd99f3c9001e7e449d5' style='color:#666;'>112901</a>",
+		    			
+					    
+				    "diseaseType":"外伤感染",
+				    "diseaseName":"其他",
+				    "diseaseDate":
+				    	
+						   "2016/11/30"
+						
+						,
+				    "diseaseDays":"300",
+				    "lastCuerDate":
+				    	
+						   "2016/11/30"
+						
+						,
+				    "curerRecord":
+				    	
+						   "治疗者:梁桂珍"
+						
+						
+				 },
+			
+				{
+				    "index":"7",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='e3e2050909f64b2da1ef6cb46febad64' style='color:#666;'>08-01</a>",
+		    			
+					    
+				    "diseaseType":"乳房疾病",
+				    "diseaseName":"乳房坏疽",
+				    "diseaseDate":
+				    	
+						   "2016/11/30"
+						
+						,
+				    "diseaseDays":"300",
+				    "lastCuerDate":
+				    	
+						   "2016/11/30"
+						
+						,
+				    "curerRecord":
+				    	
+						   "治疗者:徐小丹"
+						
+						
+				 },
+			
+				{
+				    "index":"8",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='01dba5c0772e4bd99f3c9001e7e449d5' style='color:#666;'>112901</a>",
+		    			
+					    
+				    "diseaseType":"外伤感染",
+				    "diseaseName":"骨折",
+				    "diseaseDate":
+				    	
+						   "2016/11/30"
+						
+						,
+				    "diseaseDays":"300",
+				    "lastCuerDate":
+				    	
+						   "2016/11/30"
+						
+						,
+				    "curerRecord":
+				    	
+						   "药品名称:123456 | 用药方式:输液 | 备注:159357 | 治疗者:梁桂珍"
+						
+						
+				 },
+			
+				{
+				    "index":"9",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='68079a4151914d678a31aa00ccfb42c0' style='color:#666;'>112905</a>",
+		    			
+					    
+				    "diseaseType":"乳房疾病",
+				    "diseaseName":"乳房水肿",
+				    "diseaseDate":
+				    	
+						   "2016/11/29"
+						
+						,
+				    "diseaseDays":"301",
+				    "lastCuerDate":
+				    	
+						   "2016/11/29"
+						
+						,
+				    "curerRecord":
+				    	
+						   "治疗者:梁桂珍"
+						
+						
+				 },
+			
+				{
+				    "index":"10",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='e3e2050909f64b2da1ef6cb46febad64' style='color:#666;'>08-01</a>",
+		    			
+					    
+				    "diseaseType":"乳房疾病",
+				    "diseaseName":"乳房炎",
+				    "diseaseDate":
+				    	
+						   "2016/10/30"
+						
+						,
+				    "diseaseDays":"331",
+				    "lastCuerDate":
+				    	
+						   "2016/10/30"
+						
+						,
+				    "curerRecord":
+				    	
+						   "治疗者:徐小丹"
+						
+						
+				 }
+			
+		] 
+}

@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+	"offset" : 0,
+   	"page"   : 1,
+   	"total"  : 1768,
+   	"excuteTime"  : 1794,
+ 	"rows" : [
+
+		{ 
+			
+				
+			   "cattleNo": 
+			    
+					"<a href='javascript:void(0)' cattleNo='&n1bsp1' id='d8feb7f6e6b04ec3871f3a868e82cdbb'>&n1bsp1</a>",
+			    
+				
+			   "barnName": "6栋1舍",
+			   
+	            	
+	           "cattleAge":"6.28",
+	            	
+	           "growthSt": "青年牛",
+	            	
+	           "breedSt": "已配未检",
+                
+               "milkSt": "无",	
+                	
+               "healthFlg": "健康",
+	            
+	           "calvingNo": "0",
+	            	
+	           "breedingCount": "2",
+	            	
+	           "lactationDays": "-",
+	            	
+	           "breedDay": "53",
+			   "cattleId" : "d8feb7f6e6b04ec3871f3a868e82cdbb"
+		} ,
+
+		{ 
+			
+				
+			   "cattleNo": 
+			    
+					"<a href='javascript:void(0)' cattleNo='''' id='dd04b25b1d7641cfb7385824eb43a444'>''</a>",
+			    
+				
+			   "barnName": "2栋2舍",
+			   
+	            	
+	           "cattleAge":"6.28",
+	            	
+	           "growthSt": "小育成牛",
+	            	
+	           "breedSt": "待配",
+                
+               "milkSt": "无",	
+                	
+               "healthFlg": "健康",
+	            
+	           "calvingNo": "0",
+	            	
+	           "breedingCount": "0",
+	            	
+	           "lactationDays": "-",
+	            	
+	           "breedDay": "-",
+			   "cattleId" : "dd04b25b1d7641cfb7385824eb43a444"
+		} ,
+
+		{ 
+			
+				
+			   "cattleNo": 
+			    
+					"<a href='javascript:void(0)' cattleNo='.itwillshow up int the r' id='df963939ba8e433db778deb86b04c4e6'>.itwillshow up int the r</a>",
+			    
+				
+			   "barnName": "fdsafaerqw",
+			   
+	            	
+	           "cattleAge":"6.28",
+	            	
+	           "growthSt": "成母牛",
+	            	
+	           "breedSt": "待配",
+                
+               "milkSt": "泌乳",	
+                	
+               "healthFlg": "健康",
+	            
+	           "calvingNo": "1",
+	            	
+	           "breedingCount": "0",
+	            	
+	           "lactationDays": "161",
+	            	
+	           "breedDay": "-",
+			   "cattleId" : "df963939ba8e433db778deb86b04c4e6"
+		} ,
+
+		{ 
+			
+				
+			   "cattleNo": 
+			    
+					"<a href='javascript:void(0)' cattleNo='.itwillshow up int the r_1_1' id='a59fded729ba494ba3714a628cca738f'>.itwillshow up int the r_1_1</a>",
+			    
+				
+			   "barnName": "时只需向时只需向时只需向时只需向",
+			   
+	            	
+	           "cattleAge":"5.30",
+	            	
+	           "growthSt": "青年牛",
+	            	
+	           "breedSt": "已配未检",
+                
+               "milkSt": "无",	
+                	
+               "healthFlg": "健康",
+	            
+	           "calvingNo": "0",
+	            	
+	           "breedingCount": "2",
+	            	
+	           "lactationDays": "-",
+	            	
+	           "breedDay": "94",
+			   "cattleId" : "a59fded729ba494ba3714a628cca738f"
+		} ,
+
+		{ 
+			
+				
+			   "cattleNo": 
+			    
+					"<a href='javascript:void(0)' cattleNo='/*hjhjh*/' id='47c1079adb384669bdee9b01ac0214c6'>/*hjhjh*/</a>",
+			    
+				
+			   "barnName": "2栋2舍",
+			   
+	            	
+	           "cattleAge":"6.28",
+	            	
+	           "growthSt": "成母牛",
+	            	
+	           "breedSt": "待配",
+                
+               "milkSt": "泌乳",	
+                	
+               "healthFlg": "健康",
+	            
+	           "calvingNo": "1",
+	            	
+	           "breedingCount": "1",
+	            	
+	           "lactationDays": "-",
+	            	
+	           "breedDay": "-",
+			   "cattleId" : "47c1079adb384669bdee9b01ac0214c6"
+		} ,
+
+		{ 
+			
+				
+			   "cattleNo": 
+			    
+					"<a href='javascript:void(0)' cattleNo='//' id='bc678e5472df437fa01c9d6f6da0fa15'>//</a>",
+			    
+				
+			   "barnName": "fdsa",
+			   
+	            	
+	           "cattleAge":"6.02",
+	            	
+	           "growthSt": "小育成牛",
+	            	
+	           "breedSt": "无",
+                
+               "milkSt": "无",	
+                	
+               "healthFlg": "健康",
+	            
+	           "calvingNo": "0",
+	            	
+	           "breedingCount": "0",
+	            	
+	           "lactationDays": "-",
+	            	
+	           "breedDay": "-",
+			   "cattleId" : "bc678e5472df437fa01c9d6f6da0fa15"
+		} ,
+
+		{ 
+			
+				
+			   "cattleNo": 
+			    
+					"<a href='javascript:void(0)' cattleNo='///////' id='222e59d32e134de49a05b404f3677cea'>///////</a>",
+			    
+				
+			   "barnName": "6栋1舍",
+			   
+	            	
+	           "cattleAge":"6.28",
+	            	
+	           "growthSt": "小育成牛",
+	            	
+	           "breedSt": "无",
+                
+               "milkSt": "无",	
+                	
+               "healthFlg": "健康",
+	            
+	           "calvingNo": "0",
+	            	
+	           "breedingCount": "0",
+	            	
+	           "lactationDays": "-",
+	            	
+	           "breedDay": "-",
+			   "cattleId" : "222e59d32e134de49a05b404f3677cea"
+		} ,
+
+		{ 
+			
+				
+			   "cattleNo": 
+			    
+					"<a href='javascript:void(0)' cattleNo='///121' id='20510c64909543709cfcebaeb189e349'>///121</a>",
+			    
+				
+			   "barnName": "rew",
+			   
+	            	
+	           "cattleAge":"6.02",
+	            	
+	           "growthSt": "小育成牛",
+	            	
+	           "breedSt": "无",
+                
+               "milkSt": "无",	
+                	
+               "healthFlg": "健康",
+	            
+	           "calvingNo": "0",
+	            	
+	           "breedingCount": "0",
+	            	
+	           "lactationDays": "-",
+	            	
+	           "breedDay": "-",
+			   "cattleId" : "20510c64909543709cfcebaeb189e349"
+		} ,
+
+		{ 
+			
+				
+			   "cattleNo": 
+			    
+					"<a href='javascript:void(0)' cattleNo='/mm' id='cb90f1d5d1e943f38c57f3ab7ad0f1c5'>/mm</a>",
+			    
+				
+			   "barnName": "4栋1舍3",
+			   
+	            	
+	           "cattleAge":"4.08",
+	            	
+	           "growthSt": "青年牛",
+	            	
+	           "breedSt": "已配未检",
+                
+               "milkSt": "无",	
+                	
+               "healthFlg": "健康",
+	            
+	           "calvingNo": "0",
+	            	
+	           "breedingCount": "1",
+	            	
+	           "lactationDays": "-",
+	            	
+	           "breedDay": "53",
+			   "cattleId" : "cb90f1d5d1e943f38c57f3ab7ad0f1c5"
+		} ,
+
+		{ 
+			
+				
+			   "cattleNo": 
+			    
+					"<a href='javascript:void(0)' cattleNo='/mmmm' id='1c678e6724ff4634bd5c675e9f506da6'>/mmmm</a>",
+			    
+				
+			   "barnName": "6栋1舍",
+			   
+	            	
+	           "cattleAge":"4.08",
+	            	
+	           "growthSt": "成母牛",
+	            	
+	           "breedSt": "待配",
+                
+               "milkSt": "泌乳",	
+                	
+               "healthFlg": "健康",
+	            
+	           "calvingNo": "2",
+	            	
+	           "breedingCount": "1",
+	            	
+	           "lactationDays": "-",
+	            	
+	           "breedDay": "-",
+			   "cattleId" : "1c678e6724ff4634bd5c675e9f506da6"
+		} 
+
+ 	]
+}

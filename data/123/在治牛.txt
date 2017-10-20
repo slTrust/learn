@@ -1,0 +1,289 @@
+
+
+
+
+
+
+
+
+
+
+
+{	
+   	"total"  : 64,
+	"pageNo":0,
+	"rows":
+		[
+			
+				{
+				    "index":"1",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='096318743ceb47539f729d28d9c6c421' style='color:#666;'>0.9_1_232</a>",
+		    			
+					    
+				    "diseaseType":"»È∑øº≤≤°",
+				    "diseaseName":"»È∑øªµæ“",
+				    "diseaseDate":
+				    	
+						   "2017/08/03"
+						
+						,
+				    "diseaseDays":"54",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"2",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='11493e8a8eea4382911653bf94c5e98c' style='color:#666;'>00020</a>",
+		    			
+					    
+				    "diseaseType":"»È∑øº≤≤°",
+				    "diseaseName":"»È∑øªµæ“",
+				    "diseaseDate":
+				    	
+						   "2017/08/03"
+						
+						,
+				    "diseaseDays":"54",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"3",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='115cfc7fd8d94878a7011d1ee0bcd28c' style='color:#666;'>0000_2_1</a>",
+		    			
+					    
+				    "diseaseType":"»È∑øº≤≤°",
+				    "diseaseName":"»È∑ø—◊",
+				    "diseaseDate":
+				    	
+						   "2017/08/03"
+						
+						,
+				    "diseaseDays":"54",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"4",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='3053efd94aaf4d7aa5357b12682d4bd1' style='color:#666;'>0.04_1_10</a>",
+		    			
+					    
+				    "diseaseType":"»È∑øº≤≤°",
+				    "diseaseName":"»È∑ø—◊",
+				    "diseaseDate":
+				    	
+						   "2017/08/03"
+						
+						,
+				    "diseaseDays":"54",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"5",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='c2ce7511295f4ea6b479194a1844ea87' style='color:#666;'>0/9</a>",
+		    			
+					    
+				    "diseaseType":"»È∑øº≤≤°",
+				    "diseaseName":"»È∑øªµæ“",
+				    "diseaseDate":
+				    	
+						   "2017/08/03"
+						
+						,
+				    "diseaseDays":"54",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"6",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='f92714325eb44d4fa718a24e69e76f19' style='color:#666;'>0000005_1_1</a>",
+		    			
+					    
+				    "diseaseType":"»È∑øº≤≤°",
+				    "diseaseName":"»È∑øªµæ“",
+				    "diseaseDate":
+				    	
+						   "2017/08/03"
+						
+						,
+				    "diseaseDays":"54",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"7",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='f99b2770bbcc4194b11a2fd273f6e205' style='color:#666;'>00023</a>",
+		    			
+					    
+				    "diseaseType":"»È∑øº≤≤°",
+				    "diseaseName":"»È∑øªµæ“",
+				    "diseaseDate":
+				    	
+						   "2017/08/03"
+						
+						,
+				    "diseaseDays":"54",
+				    "lastCuerDate":
+				    	
+						   "2016/10/25"
+						
+						,
+				    "curerRecord":
+				    	
+						   "÷Œ¡∆’ﬂ:∫Œ¥Û÷æ"
+						
+						
+				 },
+			
+				{
+				    "index":"8",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='c2ce7511295f4ea6b479194a1844ea87' style='color:#666;'>0/9</a>",
+		    			
+					    
+				    "diseaseType":"»È∑øº≤≤°",
+				    "diseaseName":"»È∑øÀÆ÷◊",
+				    "diseaseDate":
+				    	
+						   "2017/08/01"
+						
+						,
+				    "diseaseDays":"56",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"9",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='8a66461cdee4465fac9110b47d4d9af4' style='color:#666;'>10311</a>",
+		    			
+					    
+				    "diseaseType":"»È∑øº≤≤°",
+				    "diseaseName":"»È∑øªµæ“",
+				    "diseaseDate":
+				    	
+						   "2017/07/25"
+						
+						,
+				    "diseaseDays":"63",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"10",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='8a66461cdee4465fac9110b47d4d9af4' style='color:#666;'>10311</a>",
+		    			
+					    
+				    "diseaseType":"∑±÷≥º≤≤°",
+				    "diseaseName":"◊”π¨—◊",
+				    "diseaseDate":
+				    	
+						   "2017/07/25"
+						
+						,
+				    "diseaseDays":"63",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 }
+			
+		] 
+}

@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+{
+   	"cow" : [
+		
+			{ 	
+					"name" : "平均泌乳天数",
+					"measureResults" : "296.00000",
+					"referenceLower" :"175.0",
+					"referenceUpper" :"180.0",
+					"resultsFlag":"1",
+					"contnet":"处在泌乳期的成母牛的泌乳天数之和/相应的牛只头数<BR>泌乳天数=当天日期-最近产犊日期+1"
+			} ,
+		
+			{ 	
+					"name" : "平均产犊间隔",
+					"measureResults" : "543.00000",
+					"referenceLower" :"360.0",
+					"referenceUpper" :"400.0",
+					"resultsFlag":"1",
+					"contnet":"所有确定怀孕的成母牛的预计产犊日期和上次产犊日期的差值的总和/相应的牛只头数"
+			} ,
+		
+			{ 	
+					"name" : "平均始配天数",
+					"measureResults" : "164.00000",
+					"referenceLower" :"51.0",
+					"referenceUpper" :"75.0",
+					"resultsFlag":"1",
+					"contnet":"成母牛的始配天数之和/相应的牛只头数<BR>始配天数=最近产犊日期之后的第一次的配种日期-最近产犊日期+1"
+			} ,
+		
+			{ 	
+					"name" : "平均配准次数",
+					"measureResults" : "1.98000",
+					"referenceLower" :"1.0",
+					"referenceUpper" :"2.1",
+					"resultsFlag":"2",
+					"contnet":"确定怀孕的成母牛的配次之和/相应的的牛只头数"
+			} ,
+		
+			{ 	
+					"name" : "平均配准天数",
+					"measureResults" : "93.00000",
+					"referenceLower" :"85.0",
+					"referenceUpper" :"115.0",
+					"resultsFlag":"2",
+					"contnet":"确定怀孕的成母牛的配准天数之和/相应的牛只头数<BR>配准天数=最近的配种日期-最近产犊日期+1"
+			} 
+		
+			, 
+		
+			{ 
+				   "name" : "平均空怀天数",
+					"measureResults" : "294.00000",
+					"referenceLower" :"85.0",
+					"referenceUpper" :"110.0",
+					"resultsFlag":"1",
+					"contnet":"产后未孕的成母牛的空怀天数之和/相应的牛只头数<BR>空怀天数=当天日期-最近产犊日期+1"
+			} ,
+		
+			{ 
+				   "name" : "头胎牛平均产犊月龄",
+					"measureResults" : "11.51000",
+					"referenceLower" :"24.0",
+					"referenceUpper" :"25.5",
+					"resultsFlag":"0",
+					"contnet":"头胎牛产犊时的月龄总和/相应的牛只头数"
+			} ,
+		
+			{ 
+				   "name" : "产后180天未孕率",
+					"measureResults" : "62.70000",
+					"referenceLower" :"0.0",
+					"referenceUpper" :"8.0",
+					"resultsFlag":"1",
+					"contnet":"产后180天仍未怀孕的成母牛头数/所有的成母牛头数"
+			} ,
+		
+			{ 
+				   "name" : "怀孕率",
+					"measureResults" : "69.70000",
+					"referenceLower" :"55.0",
+					"referenceUpper" :"100.0",
+					"resultsFlag":"2",
+					"contnet":"所有怀孕的成母牛头数/所有的成母牛头数"
+			} 
+		
+			
+ 	],
+ 	"cattle" :[
+		
+			{ 	
+					"name" : "平均初配月龄",
+					"measureResults" : "12.98000",
+					"referenceLower" :"13.0",
+					"referenceUpper" :"14.0",
+					"resultsFlag":"0",
+					"contnet":"青年牛发生初配时的月龄之和/相应的牛只头数<BR>初配月龄=（第一次的配种日期-出生日期+1）/30.4"
+			} ,
+		
+			{ 	
+					"name" : "平均配准月龄",
+					"measureResults" : "0.90000",
+					"referenceLower" :"14.0",
+					"referenceUpper" :"15.0",
+					"resultsFlag":"0",
+					"contnet":"确定怀孕的青年牛的配准月龄之和/相应的牛只头数<BR>配准月龄=（最近配种日期-出生日期+1）/30.4"
+			} ,
+		
+			{ 	
+					"name" : "平均配准次数",
+					"measureResults" : "3.33000",
+					"referenceLower" :"1.0",
+					"referenceUpper" :"1.7",
+					"resultsFlag":"1",
+					"contnet":"确定怀孕的青年牛的配次之和/相应的牛只头数"
+			} ,
+		
+			{ 	
+					"name" : "平均产犊月龄",
+					"measureResults" : "9.19000",
+					"referenceLower" :"24.0",
+					"referenceUpper" :"25.0",
+					"resultsFlag":"0",
+					"contnet":"确定怀孕的青年牛预计产犊时的月龄之和/相应的牛只头数"
+			} 
+		
+		, 
+		
+			{ 
+				   "name" : "18月龄未孕率",
+					"measureResults" : "82.90000",
+					"referenceLower" :"0.0",
+					"referenceUpper" :"15.0",
+					"resultsFlag":"1",
+					"contnet":"月龄超过18个月仍未怀孕的后备牛头数/所有的后备牛头数"
+			} ,
+		
+			{ 
+				   "name" : "怀孕率",
+					"measureResults" : "5.70000",
+					"referenceLower" :"60.0",
+					"referenceUpper" :"100.0",
+					"resultsFlag":"0",
+					"contnet":"所有怀孕的后备牛头数/所有的后备牛头数"
+			} 
+		
+ 	]
+}

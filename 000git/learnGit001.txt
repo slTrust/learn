@@ -1,0 +1,78 @@
+//安装git之后  先把这些打上 避免以后的很多问题
+
+# step1方便产品经理找（ 怼） 你
+
+git config--global user.name xxx
+
+# step2方便产品经理找（ 怼） 你
+
+git config--global user.email yyy
+
+# step3 原因参考： https: //stackoverflow.com/a/21865319/1262580
+
+	git config--global push.default matching
+
+# step4防止文件名变成数字
+
+git config--global core.quotepath false
+
+# step5 使用vim编辑提交信息
+
+git config--global core.editor "vim"
+
+step6 开始git之旅 首先在任何目录 右键打开你的git bash here
+
+step7 创建一个目录 mkdir learnGit
+
+step8 切换到该目录 cd learnGit
+
+step9 查看路径 pwd
+
+step10 初始化一个git 仓库 注意是本地仓库 git init 成功后会有一个.git目录 注意不要修改他
+
+step11新建一个文件 touch aa.txt 然后打开该文件 输入 hello
+
+step12 把文件添加到git仓库 git add aa.txt
+
+step13 把文件提交到git仓库 git commit - m 'step001 我的第一次修改'
+
+step14 查看当前仓库的状态 git status
+
+step15 打开 aa.txt 在第二行输入一些东西 world
+
+step16 git status 会在 aa.txt文件名前出现 modify 代表文件修改了 而且是没有准备提交的
+
+step17 git diff aa.txt 可以查看文件的不同
+
+step18 再次提交 git add aa.txt
+
+step19 再次查看状态 git status 会提示将要被提交的文件
+
+step20 git commit - m 'step002 我的第二次提交'
+
+step21 git status 可以看到当前没有需要提交的修改 nothing to commit(working directory clean)
+工作目录是干净 的。
+
+
+	** ** * 版本回退 新建 aa.txt
+step01 再次修改 aa.txt == > 内容 aa == > git add aa.txt == > git commit - m 'step001'
+step02 再次修改 aa.txt == > 内容 aabb == > git add aa.txt == > git commit - m 'step002'
+step03 再次修改 aa.txt == > 内容 aabbcc == > git add aa.txt == > git commit - m 'step003'
+
+step04 查看历史记录 git log 会显示倒序排列的三次修改 这样输出的信息很多 不方便查看
+
+step05 查看简要信息 git log--pretty = oneline
+大致如下:
+3628164fb26d48395383f8f31179f24e0882e1e0 step003
+ea34578d5496d7dd233c827ed32a8cd576c5ee85 step002
+cb926e7ea50ad11b8f9e909c05226233bf755030 step001
+
+step06 回退到最近的一个版本 git reset --hard HEAD^
+
+step07 想回到 step003版本  可以找刚才 git log 打印出的id   git reset --hard 3628164 回到指定版本
+
+step08 如果已经回到 step002版本  而且gitbash关了  还是想回到 step003版本
+		 git reflog 打印所有修改的记录 找到你要回到的版本id
+		 git reset --hard 3628164
+		 
+

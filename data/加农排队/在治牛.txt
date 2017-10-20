@@ -1,0 +1,289 @@
+
+
+
+
+
+
+
+
+
+
+
+{	
+   	"total"  : 38,
+	"pageNo":0,
+	"rows":
+		[
+			
+				{
+				    "index":"1",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='b3ef7b1bb11743868e9e4e2a8f90cfa9' style='color:#666;'>00</a>",
+		    			
+					    
+				    "diseaseType":"乳房疾病",
+				    "diseaseName":"乳房悬韧带松弛",
+				    "diseaseDate":
+				    	
+						   "2017/09/21"
+						
+						,
+				    "diseaseDays":"1",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"2",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='f9b8ab359ea0429b8ab91f00b6df6985' style='color:#666;'>0831007</a>",
+		    			
+					    
+				    "diseaseType":"代谢性疾病",
+				    "diseaseName":"胎衣不下",
+				    "diseaseDate":
+				    	
+						   "2017/09/21"
+						
+						,
+				    "diseaseDays":"1",
+				    "lastCuerDate":
+				    	
+						   "2017/09/21"
+						
+						,
+				    "curerRecord":
+				    	
+						   "药品名称:xx | 用药方式:输液 | 备注:xx | 治疗者:陈东辉1"
+						
+						
+				 },
+			
+				{
+				    "index":"3",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='156269c3cd4e40ba85baf71178b52c7f' style='color:#666;'>0071A_1_3_1_1</a>",
+		    			
+					    
+				    "diseaseType":"呼吸系统疾病",
+				    "diseaseName":"感冒",
+				    "diseaseDate":
+				    	
+						   "2017/09/18"
+						
+						,
+				    "diseaseDays":"4",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"4",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='363ea3f04e844fb59f1b7852304dc494' style='color:#666;'>0071A_1_121_3_2</a>",
+		    			
+					    
+				    "diseaseType":"其它",
+				    "diseaseName":"过敏",
+				    "diseaseDate":
+				    	
+						   "2017/09/18"
+						
+						,
+				    "diseaseDays":"4",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"5",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='2d2c8b18a5c942b1ad54a2bce86b0a5d' style='color:#666;'>AK226</a>",
+		    			
+					    
+				    "diseaseType":"肢蹄疾病",
+				    "diseaseName":"腐蹄病",
+				    "diseaseDate":
+				    	
+						   "2017/09/16"
+						
+						,
+				    "diseaseDays":"6",
+				    "lastCuerDate":
+				    	
+						   "2017/09/16"
+						
+						,
+				    "curerRecord":
+				    	
+						   "药品名称:22 | 治疗者:陈东辉1"
+						
+						
+				 },
+			
+				{
+				    "index":"6",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='a5f9962c40e3433daf05148e2b5aa0d9' style='color:#666;'>0006</a>",
+		    			
+					    
+				    "diseaseType":"肢蹄疾病",
+				    "diseaseName":"腐蹄病",
+				    "diseaseDate":
+				    	
+						   "2017/09/16"
+						
+						,
+				    "diseaseDays":"6",
+				    "lastCuerDate":
+				    	
+						   "2017/09/16"
+						
+						,
+				    "curerRecord":
+				    	
+						   "药品名称:22 | 治疗者:陈东辉1"
+						
+						
+				 },
+			
+				{
+				    "index":"7",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='156269c3cd4e40ba85baf71178b52c7f' style='color:#666;'>0071A_1_3_1_1</a>",
+		    			
+					    
+				    "diseaseType":"乳房疾病",
+				    "diseaseName":"乳房水肿",
+				    "diseaseDate":
+				    	
+						   "2017/07/17"
+						
+						,
+				    "diseaseDays":"67",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"8",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='5ef8729915b74554bef5da0fcf7e9a46' style='color:#666;'>aaa</a>",
+		    			
+					    
+				    "diseaseType":"乳房疾病",
+				    "diseaseName":"乳房炎",
+				    "diseaseDate":
+				    	
+						   "2017/06/27"
+						
+						,
+				    "diseaseDays":"87",
+				    "lastCuerDate":
+				    	
+						
+						    "-"
+						,
+				    "curerRecord":
+				    	
+						
+						    "-"
+						
+				 },
+			
+				{
+				    "index":"9",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='674458e3d86044c5ba780fbd0bc79921' style='color:#666;'>AK225</a>",
+		    			
+					    
+				    "diseaseType":"肢蹄疾病",
+				    "diseaseName":"趾间皮炎",
+				    "diseaseDate":
+				    	
+						   "2017/06/27"
+						
+						,
+				    "diseaseDays":"87",
+				    "lastCuerDate":
+				    	
+						   "2017/06/27"
+						
+						,
+				    "curerRecord":
+				    	
+						   "治疗者:陈东辉1"
+						
+						
+				 },
+			
+				{
+				    "index":"10",
+				    "cattleNo":
+				    	
+							"<a href='javascript:void(0)' id='e206d19905e846f7b5e95381e5ab2b91' style='color:#666;'>fdsddddafaa</a>",
+		    			
+					    
+				    "diseaseType":"肢蹄疾病",
+				    "diseaseName":"腐蹄病",
+				    "diseaseDate":
+				    	
+						   "2017/04/27"
+						
+						,
+				    "diseaseDays":"148",
+				    "lastCuerDate":
+				    	
+						   "2017/04/27"
+						
+						,
+				    "curerRecord":
+				    	
+						   "治疗者:陈东辉"
+						
+						
+				 }
+			
+		] 
+}
